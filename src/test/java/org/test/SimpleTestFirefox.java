@@ -15,7 +15,6 @@ import com.vaadin.testbench.elements.LabelElement;
 
 public class SimpleTestFirefox extends TestBenchTestCase {
 
-    private final String DRIVER_PATH="/media/dmitrii/Data/install/libs/chromedriver";
     private final String FIREFOX_PATH="/media/dmitrii/Data/install/Firefoxes/45 ESR/firefox";
     private final String URL="http://localhost:8080";
 
